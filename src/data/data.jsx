@@ -3,32 +3,40 @@ import tda from '../assets/tda.png'
 import quiz from '../assets/quiz.png'
 import weatherAPI from '../assets/weatherAPI.png'
 import hogold from '../assets/hogold.png'
+import hog1 from '../assets/hog1.png'
 import bookapi from '../assets/bookapi.png'
 
 
-export const data=[
-  
+export const data = [
     {
         id:1,
+        name:"Hire Our Grads",
+        image:hog1,
+        github:"",
+        live:"https://hiring.thedeveloperacademy.com/"
+    },
+  
+    {
+        id:2,
         name:"Website",
         image:tda,
         github:"",
         live:"https://thedeveloperacademy.com/",
     },
     {
-        id:2,
+        id:3,
         name:"Simple Quiz",
         image:quiz,
         github:"https://github.com/naaz166/project2quiz",
         live:"https://naaz166.github.io/project2quiz/",
     },
-    {
-        id:3,
-        name:"Hobby Website",
-        image:hobby,
-        github:"https://github.com/naaz166/hobby-website",
-        live:"https://naaz166.github.io/hobby-website/",
-    },
+    // {
+    //     id:3,
+    //     name:"Hobby Website",
+    //     image:hobby,
+    //     github:"https://github.com/naaz166/hobby-website",
+    //     live:"https://naaz166.github.io/hobby-website/",
+    // },
     {
         id:4,
         name:"Weather API",
