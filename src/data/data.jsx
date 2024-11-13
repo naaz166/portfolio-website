@@ -55,9 +55,9 @@ export const data = [
         id:6,
         name:"Book List API",
         image:bookapi,
-        github:"https://github.com/naaz166/Book-list ",
-        live:"",
-    },
+        github:"https://github.com/naaz166/Book-list "
+        
+    }
 
 
 ]
