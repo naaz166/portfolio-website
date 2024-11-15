@@ -1,6 +1,6 @@
 // import hobby from '../assets/hobby.png'
 import tda from '../assets/tda.png'
-import quiz from '../assets/quiz.png'
+import quiz from '../assets/quiz-game.png'
 import weatherAPI from '../assets/weatherAPI.png'
 import hogold from '../assets/hogold.png'
 import hog1 from '../assets/hog1.png'
