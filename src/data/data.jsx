@@ -1,7 +1,7 @@
 // import hobby from '../assets/hobby.png'
 import tda from '../assets/tda.png'
 import quiz from '../assets/quiz-game.png'
-import weatherAPI from '../assets/weatherAPI.png'
+import weatherAPI from '../assets/weather-forecast.png'
 import hogold from '../assets/hogold.png'
 import hog1 from '../assets/hog1.png'
 import bookapi from '../assets/bookapi.png'
@@ -41,8 +41,8 @@ export const data = [
         id:4,
         name:"Weather API",
         image:weatherAPI,
-        github:"https://github.com/naaz166/weather-app ",
-        live:"https://weather-for-cities.herokuapp.com/",
+        github:"https://github.com/naaz166/weather-app-new",
+        live:"https://weather-app-api-01.netlify.app",
     },
     {
         id:5,
