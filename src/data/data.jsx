@@ -4,7 +4,7 @@ import quiz from '../assets/quiz-game.png'
 import weatherAPI from '../assets/weather-forecast.png'
 import hogold from '../assets/hogold.png'
 import hog1 from '../assets/hog1.png'
-import bookapi from '../assets/bookapi.png'
+import todo from '../assets/todo.png'
 
 
 export const data = [
@@ -53,9 +53,10 @@ export const data = [
     },
     {
         id:6,
-        name:"Book List API",
-        image:bookapi,
-        github:"https://github.com/naaz166/Book-list "
+        name:"To do App",
+        image:todo,
+        github: "https://github.com/naaz166/todo-app",
+        live:"https://todo-app-list-01.netlify.app",
         
     }
 
