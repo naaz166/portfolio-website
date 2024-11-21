@@ -9,6 +9,20 @@ import todo from "../assets/todo.png";
 export const data = [
   {
     id: 1,
+    name: "Product store",
+    image: productStore,
+    github: "https://github.com/naaz166/product-store",
+    live: "https://product-store-aw03.onrender.com",
+  },
+  {
+    id: 2,
+    name: "Weather API",
+    image: weatherAPI,
+    github: "https://github.com/naaz166/weather-app-new",
+    live: "https://weather-app-api-01.netlify.app",
+  },
+  {
+    id: 3,
     name: "Hire Our Grads",
     image: hog1,
     github: "",
@@ -16,33 +30,20 @@ export const data = [
   },
 
   {
-    id: 2,
+    id: 4,
     name: "Website",
     image: tda,
     github: "",
     live: "https://thedeveloperacademy.com/",
   },
   {
-    id: 3,
+    id: 5,
     name: "Simple Quiz",
     image: quiz,
     github: "https://github.com/naaz166/project2quiz",
     live: "https://naaz166.github.io/project2quiz/",
   },
-  {
-    id: 4,
-    name: "Weather API",
-    image: weatherAPI,
-    github: "https://github.com/naaz166/weather-app-new",
-    live: "https://weather-app-api-01.netlify.app",
-  },
-  {
-    id: 5,
-    name: "Product store",
-    image: productStore,
-    github: "https://github.com/naaz166/product-store",
-    live: "https://product-store-aw03.onrender.com",
-  },
+
   {
     id: 6,
     name: "To do App",
