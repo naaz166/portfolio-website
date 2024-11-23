@@ -13,7 +13,7 @@ const Home = () => {
           I'm a Software Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I’m a Junior Software developer who is currently, focused on building
+          I’m a Software developer who is currently, focused on building
           responsive full-stack web applications. I am keen to continue
           developing my skills and experience with latest cutting-edge
           development tools and procedures.
