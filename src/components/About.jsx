@@ -18,7 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              About Me I'm a Full-Stack Software Developer with nearly two
+              I'm a Full-Stack Software Developer with nearly two
               years of commercial experience building web applications using the
               MERN stack. I have a strong interest in front-end development with
               React.js and Next.js, alongside experience developing RESTful
